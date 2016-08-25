@@ -1,0 +1,3 @@
+Goal forall A B,A->B->A.
+tauto.
+Qed.

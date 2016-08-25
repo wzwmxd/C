@@ -1,0 +1,4 @@
+import omega;
+Goal forall n m,n+m=m+n.
+intros;omega.
+Qed.
