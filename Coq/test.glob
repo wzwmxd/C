@@ -1,8 +1,0 @@
-DIGEST 6735130760baf41569705b0d12ba649e
-Ftest
-prf 8:10 <> thm
-R12:12 Coq.Init.Logic <> :type_scope:x_'->'_x not
-R17:19 Coq.Init.Logic <> :type_scope:x_'->'_x not
-R20:20 Coq.Init.Logic <> :type_scope:x_'->'_x not
-R25:27 Coq.Init.Logic <> :type_scope:x_'->'_x not
-R29:30 Coq.Init.Logic <> :type_scope:x_'->'_x not

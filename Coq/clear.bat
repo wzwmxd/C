@@ -1,0 +1,1 @@
+del *.aux *.glob *.vo *# test
